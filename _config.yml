@@ -3,7 +3,7 @@ description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll 
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://chaos-taxi.github.io/Strength-Methodology" # change this to the base hostname & protocol for your site
+url: "" # change this to the base hostname & protocol for your site
 
 google_analytics:
 # cayman-blog date format
@@ -17,7 +17,7 @@ theme: # leave it empty
 author: "Lore Pirri"
 image: /thumbnail-jumbo.png
 twitter:
-  username: lorepirri
+  username: chaos-taxi
 #  site:
 facebook:
   #publisher: 1592372034171500
