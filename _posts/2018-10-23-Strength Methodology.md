@@ -1,4 +1,8 @@
-Strength methodology appeared on the project development scene as a rescue from all the inconsistencies and wrong postulates of Agile.
+---
+layout: post
+---
+
+**Strength** methodology appeared on the project development scene as a rescue from all the inconsistencies and wrong postulates of **Agile**.
 
 At first, it was just our team, consisted of few intuitive free minds, but what we aimed to achieve is to emit Strength to our colleagues, our growing company, and later the whole developer scene.
 
