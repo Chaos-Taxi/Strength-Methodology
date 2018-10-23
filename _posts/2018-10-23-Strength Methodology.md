@@ -2,7 +2,7 @@
 layout: post
 ---
 
-**Strength** methodology appeared on the project development scene as a rescue from all the inconsistencies and wrong postulates of **Agile**.
+Strength methodology appeared on the project development scene as a rescue from all the inconsistencies and wrong postulates of Agile.
 
 At first, it was just our team, consisted of few intuitive free minds, but what we aimed to achieve is to emit Strength to our colleagues, our growing company, and later the whole developer scene.
 
@@ -14,5 +14,7 @@ The problem that we found with Agile, is that still 95% of Startups were failing
 
 Strength keeps it simple. The most important thing is to be happy at work. It builds the product for itself! Chaos Taxi followers just popped out on places where we would not have expected it. We got 4 more  people (I am intentionally not calling them employees). Some were very experienced, and others were just funny. Ok, they were also eager to learn and evolve. We had push-up sessions and every push-up was a minute of work you could go earlier home. Most entrepreneurs would say "wtf", unbeknownst  of true wisdom, its effect human beings, not seeing the bigger picture. If a person is strong, healthy and physically active, that person is happy, clear in head and more productive. Plus, that person would be stimulated to have more free time, be better rested, and fulfilled. That builds not the body, but the community, idea and the product. Strength does not waste time only to give percentages of productivity upgrade. Strength gets the job done. That is what other methodologies seek, but not many find.
 
-We do not hate, nor belittle Agile. Like people, some companies are more agile,  some are focused on intelligence. We wanted to be strong. What I want to say about the Agile is that it was our greatest inspiration. And like how 
+We do not hate, nor belittle Agile. Like people, some companies are more agile, some are focused on intelligence. We wanted to be strong. What I want to say about the Agile is that it was our greatest inspiration. And like how 
 a human evolved from a monkey-like being, Strength Methodology evolved from Agile, so we respect it, although we’re not living by its principles.
+
+Maybe the most precise point of this article was that there are no better or worse methodologies (of course there are, but give me a second to make a point), but rather methodologies that better suit different people and their mind-sets. So maybe we should try more, not to blindly accept what is popular, but see what fits our style, our problem solving ways and our idea.
