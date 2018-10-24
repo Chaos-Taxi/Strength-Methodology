@@ -1,5 +1,5 @@
-title: Cayman Blog Theme
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and GitHub Pages, with social/SEO features.
+title: Strength Methodology
+description: News, posts related to a new approach for software development
 show_downloads: true
 
 baseurl: "/Strength-Methodology/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -14,7 +14,7 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "Lore Pirri"
+author: "Chaos Taxi | Sebastian Novak | Đorđe Radonić"
 image: /thumbnail-jumbo.png
 twitter:
   username: chaos-taxi
