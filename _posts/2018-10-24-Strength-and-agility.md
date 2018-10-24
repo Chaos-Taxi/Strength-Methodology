@@ -14,7 +14,7 @@ Some of us loved playing games. Well, probably most of us. Especially in Chaos T
 >
 >ability to think and understand quickly
 
-Was it really ever enough to achieve victory? (Note: I am not talking about Amazon from Diablo II)
+Was it really ever enough to achieve victory in a game? (Note: I am not talking about Amazon from Diablo II)
 The answer is: NO.
 
 Now we know that we need a great mix of all the virtues (or call them attributes). With fine balance of the virtues, come better chance of positive results.
