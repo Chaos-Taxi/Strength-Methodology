@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Strength Methodology"
-tagline: "This post demonstrates Strength basics and how we started"
+tagline: "Strength basics and how we started"
 categories: experience
 #image: /thumbnail-mobile.png
 author: "Djordje Radonic"
