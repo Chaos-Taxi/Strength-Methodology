@@ -1,5 +1,11 @@
 ---
 layout: post
+title: "Strength Methodology"
+tagline: "This post demonstrates Strength basics and how we started"
+categories: experience
+#image: /thumbnail-mobile.png
+author: "Djordje Radonic"
+#meta: "Springfield"
 ---
 
 Strength methodology appeared on the project development scene as a rescue from all the inconsistencies and wrong postulates of Agile.
