@@ -27,9 +27,9 @@ Let's google 'Strength':
 >
 >synonyms:	robustness, sturdiness, firmness, toughness, soundness, solidity, solidness, durability, stability;
 
-We need that stuff also, right? But no one from Agile sect will tell us that, right? Sadly, that was our experience.
+We need that stuff also, right? Why did no one from Agile sect told us that? Sadly, that was our experience.
 
-Concept of Inteligence will be covered in other opportunity. In this one, it is divide between Strenth and Agility. Just look at Agility - "ability to think and understand quickly", and see the Strength - "withstand great force or pressure, stability, firmness". So in order not to overcomplicate the story, this article sums everything up through these two spheres.
+Concept of Inteligence will be covered in other opportunity. In this one, it is divide between Strength and Agility. Just look at Agility - "ability to think and understand quickly", and see the Strength - "withstand great force or pressure, stability, firmness". So in order not to overcomplicate the story, this article sums everything up through these two spheres.
 
 We are of the opinion that Agility has been overestimated, and what are trying to do is to give a new light to equilibrium of virtues, and/or the sole purpose of other virtues, which my prove better than Agility, or better that equilibrium.
 
