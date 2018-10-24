@@ -5,7 +5,7 @@ show_downloads: true
 baseurl: "/Strength-Methodology/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://chaos-taxi.github.io/Strength-Methodology/" # change this to the base hostname & protocol for your site
 
-google_analytics:
+google_analytics: UA-128051816-1
 # cayman-blog date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 cayman-blog:
