@@ -7,4 +7,4 @@ permalink: /about.html
 
 Group of jokers. With some ok ideas, i guess.
 
-[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
+[Go to the Home Page]({{ site.url }}#{{ site.baseurl }})
