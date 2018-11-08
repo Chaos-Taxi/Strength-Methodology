@@ -4,7 +4,7 @@ title: "Strength Methodology"
 tagline: "Strength basics and how we started"
 categories: experience
 #image: /thumbnail-mobile.png
-author: "Djordje Radonic"
+author: "Peter Iron Carbonic"
 #meta: "Springfield"
 ---
 
