@@ -4,7 +4,7 @@ title: "Strength and Agility"
 tagline: "The difference and the balance between the two"
 categories: methodology
 #image: /thumbnail-mobile.png
-author: "Djordje Radonic"
+author: "Peter Iron Carbonic"
 #meta: "Springfield"
 ---
 
