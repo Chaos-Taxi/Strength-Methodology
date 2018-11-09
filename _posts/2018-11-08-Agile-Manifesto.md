@@ -8,11 +8,15 @@ author: "Peter Iron Carbonic"
 #meta: "Springfield"
 ---
 
+Fast to the point of this post. Quotes from Agile Manifesto (http://agilemanifesto.org/principles.html) will be given in
+
+>this kind of form
+
+and our comments will be given in regular indent like this. Let's go.
+
 >Our highest priority is to satisfy the customer
 >through early and continuous delivery
 >of valuable software.
-
-Source: http://agilemanifesto.org/principles.html
 
 We think that it is a great idea. Sadly, customer is not always sure what does he want, or wants many things and cannot prioritize them. Outside that - this rule proves it's values to the success of the product. But these two things may prove fatal.
 
