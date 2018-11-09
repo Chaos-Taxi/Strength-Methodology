@@ -18,7 +18,7 @@ and our comments will be given in regular indent like this. Let's go.
 >through early and continuous delivery
 >of valuable software.
 
-We think that it is a great idea. Sadly, customer is not always sure what does he want, or wants many things and cannot prioritize them. Outside that - this rule proves it's values to the success of the product. But these two things may prove fatal.
+We think that it is a great idea. Sadly, customer is not always sure what does he want, or wants many things and cannot prioritize them. If we put that aside - the rule does prove it's value to the success of the product! But these two exceptions should not be neglected, as they may prove fatal! And they are not such a exceptions (if we take their frequency into account)!
 
 >Welcome changing requirements, even late in 
 >development. Agile processes harness change for 
