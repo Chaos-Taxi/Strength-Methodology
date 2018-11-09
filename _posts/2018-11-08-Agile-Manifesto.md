@@ -1,13 +1,18 @@
-
-
-
-
+---
+layout: post
+title: "Agile Manifesto"
+tagline: "With Strength comments"
+categories: methodology
+#image: /thumbnail-mobile.png
+author: "Peter Iron Carbonic"
+#meta: "Springfield"
+---
 
 >Our highest priority is to satisfy the customer
 >through early and continuous delivery
 >of valuable software.
 
-http://agilemanifesto.org/principles.html
+Source: http://agilemanifesto.org/principles.html
 
 We think that it is a great idea. Sadly, customer is not always sure what does he want, or wants many things and cannot prioritize them. Outside that - this rule proves it's values to the success of the product. But these two things may prove fatal.
 
