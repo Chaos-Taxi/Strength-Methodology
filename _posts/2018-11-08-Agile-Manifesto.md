@@ -8,9 +8,9 @@ author: "Peter Iron Carbonic"
 #meta: "Springfield"
 ---
 
-Fast to the point of this post. Quotes from Agile Manifesto (http://agilemanifesto.org/principles.html) will be given in
+Fast to the point of this post. Quotes from [Agile Manifesto](http://agilemanifesto.org/principles.html) will be given in
 
->this kind of form
+>this kind of text block
 
 and our comments will be given in regular indent like this. Let's go.
 
