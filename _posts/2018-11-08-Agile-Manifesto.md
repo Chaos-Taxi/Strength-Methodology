@@ -12,9 +12,9 @@ Fast to the point of this post. Quotes from [Agile Manifesto](http://agilemanife
 
 >this kind of text block
 
-## The Manifesto
-
 and our comments will be given in regular indent like this. Let's go.
+
+## The Manifesto
 
 >Our highest priority is to satisfy the customer
 >through early and continuous delivery
