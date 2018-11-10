@@ -10,7 +10,7 @@ author: "Peter Iron Carbonic"
 
 Do you think your "local agile expert" has read Agile Manifesto? Have you? Well, it's not a problem... if you don't use the word "Agile" on the daily basis! But if you do (or your local expert does)... well - that is something like people who talk about religion, but haven't opened the Bible (political correctness alert) or the holy book of their choice, since their literature classes 10 years ago... We don't like them. For a reason.
 
-Ok ok, let us not comment other people's opinions. Let's, instead, go through the "Agile bible" step by step.
+Ok ok, let us not comment other people and their opinions. Let's, instead, go through the "Agile bible" step by step.
 
 Quotes from [Agile Manifesto](http://agilemanifesto.org/principles.html) will be given in
 
@@ -24,11 +24,13 @@ and our comments will be given in regular indent like this. Let's go!
 >through early and continuous delivery
 >of valuable software.
 
-Everyone who has had a direct contact with the customer, knows that this is (at least) somewhat tricky.
+This is such a great idea! It really was revolutionary at the time it was made! But the execution of this idea is something way harder than these few lines could have perceived.
 
-We think that it is a great idea, but, sadly, customer is not always sure what does (s)he want, or (s)he wants too many things at the same time, and cannot prioritize those needs properly! Moreover, it may be that some of those things customer thought he wanted, later did not want...
+Main problem: Everyone who has had a direct contact with the customer, knows that this Manifesto's point is at least somewhat tricky.
 
-If we put that aside - the rule does prove its value to the success of the product! But these exceptions should NOT be neglected, as they may prove fatal! 
+Sadly, customer is not always sure what does (s)he want, or (s)he wants too many things at the same time, and cannot prioritize them properly! Moreover, it may be that some of those things customer thought (s)he wanted, later did not want...
+
+If we put that aside - the Manifesto's point does prove its value to the success of the product! But these exceptions should NOT be neglected, as they may be fatal! 
 
 Next point covers something similar, let's continue this topic there.
 
@@ -40,7 +42,8 @@ This is great. But constant pivoting and pressure on the development team makes 
 
 Agility is about being ready for the expected changes, and not about changing everything and always. Ones who are accredited to communicate with potential client/customer should negotiate realistic agreement from the very start. Often, 10 minutes with pen and paper in the right time (project beginning) saves days, weeks, and even months of development (redirecting, pivoting, changing) in later stages! This slacking in products start should be considered unprofessional, because it very much is! The "let's just get the client, later we will think of something to finish the job" mentality is unethical, and too often does it come to developers to "save the day" (work overtime, work weekends, work from home, work in stressful surrounding)... Not cool. And really - not even agile.
 
->Deliver working software frequently, from a 
+>Deliver working software 
+uently, from a 
 >couple of weeks to a couple of months, with a 
 >preference to the shorter timescale.
 
