@@ -28,7 +28,7 @@ Everyone who has had a direct contact with the customer, knows that this is (at 
 
 We think that it is a great idea, but, sadly, customer is not always sure what does (s)he want, or (s)he wants too many things at the same time, and cannot prioritize those needs properly! Moreover, it may be that some of those things customer thought he wanted, later did not want...
 
-If we put that aside - the rule does prove it's value to the success of the product! But these exceptions should NOT be neglected, as they may prove fatal! And they are not such an exception (if we take their frequency into account)!
+If we put that aside - the rule does prove its value to the success of the product! But these exceptions should NOT be neglected, as they may prove fatal! 
 
 Next point covers something similar, let's continue this topic there.
 
