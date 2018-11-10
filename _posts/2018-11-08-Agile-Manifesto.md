@@ -38,7 +38,7 @@ Next point covers something similar, let's continue this topic there.
 
 This is great. But constant pivoting and pressure on the development team makes the product sturdy. Coding fast with lots of project redirections, makes the product's code quality low, so changes become harder. More rational and calm development improves efficiency of making changes in the later stages of product development. We agree that changes should be welcomed, but other contract/agreement clauses should also be changed proportionally! In many cases, product is expected to be deployed in the same time as it would have been in case of no additional changes requirement. Not cool.
 
-Agility is about being ready for the expected changes, and not about changing everything and always. Ones who are accredited to communicate with potential client/customer should negotiate realistic agreement from the very start. Often, 10 minutes with pen and paper in the right time (project begining) saves days, weeks, and even months of development (redirecting, pivoting, changing) in later stages! This slacking in products start should be considered unprofessional, because it very much is! The "let's just get the client, later we will think of something to finish the job" mentality is unethical, and too often does it come to developers to "save the day" (work overtime, work weekends, work from home, work in stressful surrounding)... Not cool. And really - not even agile.
+Agility is about being ready for the expected changes, and not about changing everything and always. Ones who are accredited to communicate with potential client/customer should negotiate realistic agreement from the very start. Often, 10 minutes with pen and paper in the right time (project beginning) saves days, weeks, and even months of development (redirecting, pivoting, changing) in later stages! This slacking in products start should be considered unprofessional, because it very much is! The "let's just get the client, later we will think of something to finish the job" mentality is unethical, and too often does it come to developers to "save the day" (work overtime, work weekends, work from home, work in stressful surrounding)... Not cool. And really - not even agile.
 
 >Deliver working software frequently, from a 
 >couple of weeks to a couple of months, with a 
@@ -55,7 +55,7 @@ Ok, maybe not daily, but also - thumbs up! We (people) haven't managed to ruin t
 >Give them the environment and support they need, 
 >and trust them to get the job done.
 
-This is where most of the so-called agilists fail to act by Agile Manifesto. They often lack respect to the individuals who are, if not experts, still better proffesionals considering their fild of expertise, than the "agile" project manager. That makes the manager involve too much in other people's work, which breaks the important "machine gears", one by one. Making further "machine" agility and reilability for change lower. Which is counter agile.
+This is where most of the so-called agilists fail to act by Agile Manifesto. They often lack respect to the individuals who are, if not experts, still better professionals considering their field of expertise, than the "agile" project manager. That makes the manager involve too much in other people's work, which breaks the important "machine gears", one by one. Making further "machine" agility and reliability for change lower. Which is counter agile.
 
 >The most efficient and effective method of 
 >conveying information to and within a development 
