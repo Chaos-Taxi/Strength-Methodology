@@ -43,7 +43,7 @@ This is great. But constant pivoting and pressure on the development team makes 
 Agility is about being ready for the expected changes, and not about changing everything and always. Ones who are accredited to communicate with potential client/customer should negotiate realistic agreement from the very start. Often, 10 minutes with pen and paper in the right time (project beginning) saves days, weeks, and even months of development (redirecting, pivoting, changing) in later stages! This slacking in products start should be considered unprofessional, because it very much is! The "let's just get the client, later we will think of something to finish the job" mentality is unethical, and too often does it come to developers to "save the day" (work overtime, work weekends, work from home, work in stressful surrounding)... Not cool. And really - not even agile.
 
 >Deliver working software 
-uently, from a 
+>frequently, from a 
 >couple of weeks to a couple of months, with a 
 >preference to the shorter timescale.
 
