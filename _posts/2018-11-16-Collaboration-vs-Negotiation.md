@@ -28,15 +28,15 @@ Pvt. Carbonic: Sir, I was working in a civilian IT company for 6 years before I 
 
 cpt. Millers: Yes, private. But this is the upgraded version. I call it Strength Methodology. Because it isn't f*g blind, and not a fad. It is bold and true.
 
-Pvt. Carbonic: Sir... *khm... With all due respect, Agile methodologies are the synonym of bold (yup, that's what I thought back then)... It pivots, or how do you call it "redirects" when it sees a obstacle that it cannot take down... It respects individuals in their fields of expertise, it makes a small autonomous team that builds itself as it build the product...
+Pvt. Carbonic: Sir... *khm... With all due respect, Agile methodologies are synonym of bold (yup, that's what I thought back then)... It pivots, or how do you call it "redirects" when it sees an obstacle that it cannot take down... It respects individuals in their fields of expertise, it makes a small autonomous team that builds itself as it builds the product...
 
-cpt Millers: All right... Carbonic. Believe me, I have not fallen from the tree yesterday. I know how do they work. Tell me, why do 95% of them fail?
+cpt Millers: All right... Carbonic. Believe me, I have not fallen from the tree yesterday (ovo je kao nisam pao sa kruske). I know how they work. Tell me, why do 95% of them fail?
 
 Pvt. Carbonic: Well... I don't know.
 
-cpt. Millers: Is 5% to succeed enough for us?
+cpt. Millers: Is 5% success rate enough for us?
 
-Pvt. Carbonic: Well, probably people do not implement it rights. I saw a lot of missinterpretations. Companies follow Agile selectively. 
+Pvt. Carbonic: Well, probably people do not implement it right. I saw a lot of missinterpretations. Companies follow Agile selectively. 
 
 cpt. Millers: People think they are smart! They want to be a part of "what's popular". We are not popular. No one will hear about us. It does not matter what people would think if they saw us. We need to finish the job. We need to do it right. We need to be ready for changes. We need to divide the job between us, and to make an estimate about needed time and resources. Call us Agile if you want, but cannot be the 95%. And I do not want to think that I am smart. We need to be that. Pvt. Carbonic, when you are so smart, shoot: How should we solve the problem.
 
@@ -58,9 +58,9 @@ Pvt. Carbonic: Sir, it does not matter. I am right. I can do 10 more, but I will
 
 cpt. Millers: Good joke is always a good argument. At least that's what watching Senate live has thought me. Let's try what you said.
 
-Pvt. Carbonic: Sir, it is not something that changed from your opinion very much.
+Pvt. Carbonic: Sir, it is not something that differentiated from your opinion very much.
 
-cpt. Millers: I just wanted to see how you act in "100 push ups" level of stupid situations. You passed.
+cpt. Millers: Yes... I just wanted to see how you act in "100 push ups" level of stupid situations. You passed.
 
 Pvt. Carbonic: Oh... Did I do push ups for nothing.
 
