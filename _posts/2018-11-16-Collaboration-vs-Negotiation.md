@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Collaboration VS Negotiation"
+title: "Collaboration vs Negotiation"
 tagline: "Or do they go together"
 categories: methodology
 #image: /thumbnail-mobile.png
@@ -8,11 +8,9 @@ author: "Peter Iron Carbonic"
 #meta: "Springfield"
 ---
 
-The problem we detected troubles many small agile companies. Most often, it is because they are not 100% into agile, and are doing it selectively. That is because they don't yet have a defined company culture. Employees are still changing, and in company of 5-15 people, a new person in or out can make a huge impact on the team, free time topics, meetings dynamics, even frequency and duration of meetings, overall enthusiasm, and at the end - company culture.
+The problem we detected troubles many small Agile companies. Most often, it is because they are not 100% Agile, and are doing it selectively. That is because they don't yet have a defined company culture. Employees are still changing, and in company of 5-15 people, a new person in or out can make a huge impact on the team, free time topics, meetings dynamics, even frequency and duration of meetings, overall enthusiasm, and at the end - company culture. And there are the managers, one or more. The CEO. They have some experience, but they are often engineers who wanted to start their own project. Therefore, they had earned the "product owner" position step by step, learning about all the obstacles and non-engineering fields on that way. It is hard for an engineer to acknowledge the value of sectors such as marketing, sales, of content writters, HR specialists, technical documentation writters, etc. (Been there - big problem.) 
 
-The other problem is really what we call Agile inconsistencies. Manifesto could have been more detailed there, but of course, they wanted to stay on topic, and set only the foundations. But let's take a look at one such contradiction:
-
-Agile Manifesto says
+Now, back to the topic. The other problem are Agile inconsistencies. Manifesto could have been more detailed there, but of course, they wanted to stay simplistic, and set only the foundations. Let's take a look at one such pair that leads to self-destruction in cases of semi-prepared product owners (or CEOs in case of outsourcing companies):
 
 >Through this work we have come to value [...] customer collaboration over contract negotiation
 
@@ -20,9 +18,9 @@ In key 12 principles, principle number 2 says
 
 >Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
-The problem is that customer's changing requirements means new features, reworking, redesigning etc. That is more work for the workers, and out of scope of the initial agreement (contract), as we were following the "customer collaboration over contract negotiation" rule. I repeat - in well established companies, or with hourly contracts, this is not an issue. But I have also had opposite experiences, where customers/clients tended to get advantage on the "changing (adding) requirements" point. Of course, they wanted more work for the same payment. Who wouldn't. But us, promoting ourselves as naive, just gave them the reason more to do so.
+The problem is that customer's changing requirements means new features, reworking, redesigning etc. That is more work for the employees, and is out of scope of the initial agreement (contract), as we were following the "customer collaboration over contract negotiation" rule. I repeat - in well established companies, or with hourly contracts, this is not an issue. But I have also had opposite experiences, where customers/clients tended to get advantage on the "changing (adding) requirements" point. Of course, they wanted more work for the same payment. Who wouldn't. And us, promoting ourselves as naive, and quick to just take the job - gave them the reason more to do so.
 
-Thus, I've got to a logical conclusion that contracts exist for a reason, and all important clauses of verbal agreement should be put in it. It should also take "changing requirements" into consideration. It should be put on the table before the clients. It must be mentioned, discussed and agreed upon, so both sides could be content. The more experienced negotiators will have everything written in any communication platform — be it contract, mail, or skype. When you have it written, you can always refer to it and say "hey, this is what we agreed, and that is what you have been delivered". Clients, sadly often don't know what exactly they want, or how to prioritize their needs. If they make you spend 20% more time on the project, it cannot cost the same. It is simple math. Who pays for that additional 20% (and "why you"). If we are Agile, why should we be stupid?
+Thus, I've got to a logical conclusion that contracts exist for a reason (wow effect), and all important clauses of verbal agreement should be put in it. It should also take "changing requirements" into consideration. It should be put on the table before the clients. It must be mentioned, discussed and agreed upon, so both sides could be content. The more experienced negotiators will have everything written in any communication platform — be it contract, mail, or skype. When you have it written, you can always refer to it and say "hey, this is what we agreed, and that is what you have been delivered". Clients, sadly often don't know what exactly they want, or how to prioritize their needs. If they make you spend 20% more time on the project, it cannot cost the same. It is simple math. Who pays for that additional 20% (and "why you"). If we are Agile, why should we be stupid?
 
 I think that Agile was revolutionary and forward thinking considering the circumstances in which it was made. It was counter-intuitive for the current planning-execution way of doing the job, and it is great what changes it had brought. But now, when it has decentralized what it had to, gave autonomy where it had to, and removed excess formalities, it has done its job! If we try to go even further with "no importance of documentation", "less negotiation", and "accepting client's changes even in later stages", we will do no one a favor.
 
