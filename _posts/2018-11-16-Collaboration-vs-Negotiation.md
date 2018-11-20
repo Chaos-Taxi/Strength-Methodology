@@ -8,13 +8,13 @@ author: "Peter Iron Carbonic"
 #meta: "Springfield"
 ---
 
-The problem we detected troubles many small Agile companies. Most often, it is because they are not 100% Agile, and are doing it selectively. That is because they don't yet have a defined company culture. Employees are still changing, and in company of 5-15 people, a new person in or out can make a huge impact on the team, free time topics, meetings dynamics, even frequency and duration of meetings, overall enthusiasm, and at the end - company culture. And there are the managers, one or more. The CEO. They have some experience, but they are often engineers who wanted to start their own project. Therefore, they hadn't got to the "product owner" position step by step, learning about all the obstacles and important non-engineering fields on that way. And it is hard for an engineer to acknowledge the value of sectors such as marketing, sales, of content writters, HR specialists, technical documentation writters, until that fields become needed. (Been there...) 
+The problem we detected troubles many small Agile companies. Most often, it's because they are not 100% Agile, and are doing it selectively. That is because they don't yet have a defined company culture. Employees are still changing, and in a company of 5-15 people, a new person in or out can make a huge impact on the team, free time topics, meetings dynamics, even frequency and duration of meetings, overall enthusiasm, and at the end - company culture. And there are the managers, one or more. The CEO. They have some experience, but they are often engineers who wanted to start their own project. Therefore, they hadn't got to the "product owner" position step by step, learning about all the obstacles and important non-engineering fields on that way. And it is hard for an engineer to acknowledge the value of sectors such as marketing, sales, of content writters, HR specialists, technical documentation writters, until that fields become needed. (Been there...) 
 
-Now, back to the topic. Manifesto could have been more detailed there, but of course, they wanted to stay simplistic, and set only the foundations. Let's take a look at one such pair that leads to self-destruction in cases of semi-prepared product owners (or CEOs in case of outsourcing companies) (koju rec ovde da upotrebim za CEO... director?):
+Now, back to the topic. Manifesto could have been more detailed there, but of course, they wanted to stay simplistic, and set only the foundations. Let's take a look at one such pair that leads to self-destruction in cases of semi-prepared product owners (or even CEOs).
 
 >Through this work we have come to value [...] customer collaboration over contract negotiation
 
-In key 12 principles, principle number 2 says
+From the 12 principles, principle number 2 says
 
 >Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage.
 
@@ -26,7 +26,7 @@ I think that Agile was revolutionary and forward thinking considering the circum
 
 A small anecdote (that I did not make up).
 
-When we were in the HQ IT department, working on "Radar Interruptions and False Alarming" 2-year project, the head of our team was 1st Capt. Millers. He was something like a PO in Agile. He said to us: "Men, we were given the opportunity to do something useful for our country. And also get to stay here on safe spot, so listen up! I have agreed all and every foundation of this project, and we know what are we dealing with. Give your best. Stay calm. Write good code. Don't go into too many details when it is not important. War technology is changing fast, so we may need to redirect the project if it comes to it(like making a pivot in Lean development). That is why I will have few of us always research the enemy radar technologies, and stay in weekly or everyday communication with our Intelligence Committee, in order to get possible redirecting causes as early as possible. Be ready for changes, but focus on the core problem with the greatest strength! First day we will do nothing regular. I want to hear everyone's idea about how to solve the problem. I want to hear your... Yes private?
+When we were in the HQ IT department, working on "Radar Interruptions and False Alarming" 2-year project, the head of our team was 1st Capt. Millers. He was something like a PO (petty officer) in Agile. He said to us: "Men, we were given the opportunity to do something useful for our country. And also get to stay here on a safe spot, so listen up! I have agreed on the foundations of this project, and we know what are we dealing with. Give your best. Stay calm. Write good code. Don't go into too many details when it is not important. War technology is changing fast, so we may need to redirect the project if it comes to it(like making a pivot in Lean development). That is why I will have few of us always research the enemy radar technologies, and stay in weekly or everyday communication with our Intelligence Committee, in order to get potential redirecting causes as early as possible. Be ready for changes, but focus on the core problem with the greatest strength! First day we will do nothing regular. I want to hear everyone's idea about how to solve the problem. I want to hear your... Yes private?
 
 Pvt. Carbonic: Sir, I was working in a civilian IT company for 6 years before I came here. The things you mention sound much alike Agile and Lean development that we followed in our company.
 
@@ -34,7 +34,7 @@ Cpt. Millers: Yes, private. But this is the upgraded version. I call it Strength
 
 Pvt. Carbonic: Sir... *khm... With all due respect, Agile methodologies are synonym of bold (yup, that's what I thought back then)... It pivots, or how do you call it "redirects" when it sees an obstacle that it cannot take down... It respects individuals in their fields of expertise, it makes a small autonomous team that builds itself as it builds the product...
 
-Cpt Millers: All right... Carbonic. Believe me, I have not fallen from the tree yesterday (ovo je kao nisam pao sa kruske). I know how they work. Tell me, why do 95% of them fail?
+Cpt Millers: All right... Carbonic. Believe me, I wasn't born yesterday. I know how they work. Tell me, why do 95% of them fail?
 
 Pvt. Carbonic: Well... I don't know.
 
